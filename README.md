@@ -6,20 +6,18 @@
 - 🎯 Goal: Build real-world projects and improve my coding skills
 
 ## 🛠 Skills
--DSA IN C++
--C
--Oops IN JAVA
+- DSA in C++
+- OOP in Java
 - HTML
 - CSS
 - JavaScript
 - Git & GitHub (Basics)
-- IOT
+- IoT
 - Relational Databases
--Data Architecture
--Data Modeling
--schema validation
-From Relational Model (SQL) to MongoDB's Document ModelFrom Relational Model (SQL) to MongoDB's Document Model
- 
+- Data Architecture
+- Data Modeling
+- Schema Validation
+- SQL to MongoDB (Relational to Document Model)
 
 ## 📚 Currently Learning
 - Web Development
