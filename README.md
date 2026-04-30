@@ -11,19 +11,9 @@
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub (Basics)
+- Git & GitHub 
 - IoT
-- Relational Databases
-- Data Architecture
-- Data Modeling
-- Schema Validation
-- SQL to MongoDB (Relational to Document Model)
-
-## 📚 Currently Learning
-- Web Development
-- Problem Solving
-- Clean coding practices
-
+- flutter
 ## 📫 Connect With Me
 - GitHub: @GURUBAKSHYADAV-71218
 - Email: gurubakshyadav71218@gmail.com
