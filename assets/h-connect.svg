@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 76" role="img" aria-label="Find me"><title>Find me</title>
+<rect width="900" height="76" rx="6" fill="#F2EADB"/>
+<path d="M40 30 L48 38 L40 46 L32 38 Z" fill="#A5824A"/>
+<text x="64" y="50" font-family="Georgia,'Times New Roman',Times,serif" font-size="34" fill="#6E1F2F">Find me</text>
+<line x1="209" y1="38" x2="864" y2="38" stroke="#A5824A" stroke-width="1.2" opacity=".7"/>
+</svg>
