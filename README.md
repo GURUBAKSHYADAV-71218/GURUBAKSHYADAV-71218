@@ -1,299 +1,350 @@
 <div align="center">
 
-# GURUBAKSH YADAV
-
-### Software Engineering Student · Full Stack · Data Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D0D0D,45:171717,100:2A2118&text=GURUBAKSH%20YADAV&fontColor=F5F5F5&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%C2%B7%20DATA%20%C2%B7%20CLOUD&descAlignY=61&descSize=16&descColor=F59E0B"/>
 
 <br>
 
 <a href="https://github.com/GURUBAKSHYADAV-71218">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=flat-square&logo=github&logoColor=FFFFFF" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gurubakshyadav/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=flat-square&logo=linkedin&logoColor=FFFFFF" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/gurubakshyadav/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LEETCODE-0D0D0D?style=flat-square&logo=leetcode&logoColor=FFA116" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:gurubakshyadav71218@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=header" width="100%"/>
-
-</div>
-
----
-
-##  About Me
-
-I'm a **Software Engineering student** passionate about building practical and scalable solutions across **web development, data, cloud infrastructure and DevOps**.
-
-I enjoy taking an idea from concept to implementation — building full-stack applications, working with data, creating useful analytics, and exploring how modern software systems are deployed and operated in the cloud.
-
-### What I work with
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   SOFTWARE ENGINEERING                                  │
-│          │                                               │
-│          ├── Full Stack Web Development                  │
-│          │                                               │
-│          ├── Data & Analytics                            │
-│          │                                               │
-│          ├── Cloud Computing                             │
-│          │                                               │
-│          └── DevOps / AWS                                │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-Currently exploring **Cloud · DevOps · AWS**
-
----
-
-#  Featured Projects
-
-<div align="center">
-
-### 01 · GitPulse
-
-# GitPulse
-
-**Engineering Health, At a Glance.**
-
-<br>
-
-GitPulse analyzes software projects and public GitHub repositories across **dependency health, security, maintenance, repository activity, contributor concentration, testing, and documentation**.
-
-It produces an **explainable Engineering Health Score** with prioritized recommendations.
-
-<br>
-
-<a href="https://gitpulse-live.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20LIVE%20PROJECT-18181B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=flat-square&logo=gmail&logoColor=FFFFFF" />
 </a>
 
 </div>
 
 <br>
-
----
-
-<div align="center">
-
-### 02 · FriendForDoc
-
-# FriendForDoc
-
-**Making important opportunities and documentation easier to find.**
-
-<br>
-
-FriendForDoc is a **student-focused web platform** designed to simplify the process of discovering and preparing for:
-
-**Examinations · Application Forms · Counselling · Scholarships · Recruitment · Documentation**
-
-<br>
-
-<a href="https://friendfordoc.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20LIVE%20PROJECT-18181B?style=for-the-badge" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 03 · PayLense
-
-# PayLense
-
-**Understand your salary beyond the offer letter.**
-
-<br>
-
-**PAYLENS** is a salary transparency web application for India.
-
-It explains the gap between the **number on an offer letter** and the **number that actually lands in a bank account**.
-
-<br>
-
-<a href="https://paylense-analytics.vercel.app/">
-<img src="https://img.shields.io/badge/↗%20LIVE%20PROJECT-18181B?style=for-the-badge" />
-</a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### 04 · Healthcare Analytics
-
-# Healthcare Analytics Web App
-
-**Data-driven insights for heart health.**
-
-<br>
-
-A data analytics project that analyzes **heart-health indicators** to predict potential risks and provide actionable health insights.
-
-<br>
-
-<a href="https://www.figma.com/design/X4jj7I1V5OJ2Cymggw00zu/Healthcare-Analytics-Web-App-UI">
-<img src="https://img.shields.io/badge/↗%20VIEW%20FIGMA-18181B?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-
-</div>
-
----
-
-#  Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,java,dart" />
-
-<br><br>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,html,css" />
-
-<br><br>
-
-### Cloud · DevOps · Data
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,mysql" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-
-</div>
-
----
-
-#  Certifications
-
-<div align="center">
-
-| Certification |
-| :--- |
-| ☁️ **AWS Cloud Practitioner** |
-| 📊 **AWS Data Engineer – Associate** |
-| 🐧 **Red Hat Training — Getting Started with Linux Fundamentals** |
-| &nbsp;&nbsp;&nbsp;RH104 - RHA · Ver. 9.1 |
-
-</div>
-
----
-
-#  Currently Learning
-
-<div align="center">
 
 <table>
 <tr>
-<td align="center" width="180">
+<td width="62%" valign="top">
 
-### ☁️
+# Building at the intersection of software, data & cloud.
 
-**AWS**
+I'm **Gurubaksh Yadav**, a Software Engineering student who enjoys turning ideas into practical digital products.
 
-</td>
+My interests sit across **full-stack development, data analytics, cloud infrastructure and DevOps**.
 
-<td align="center" width="180">
+I like working on problems where the interface is only one part of the solution — where **engineering, data and infrastructure** have to work together.
 
-### ⚙️
+<br>
 
-**DevOps**
+**Currently exploring**
 
-</td>
-
-<td align="center" width="180">
-
-### 
-
-**Cloud**
+`AWS` &nbsp; `Cloud Architecture` &nbsp; `DevOps` &nbsp; `Data Engineering`
 
 </td>
 
-<td align="center" width="180">
+<td width="38%" valign="top">
 
-### 
+### PROFILE
 
-**Infrastructure**
+**Education**  
+B.Tech · Computer Science
+
+**Interests**  
+Software Engineering  
+Web Development  
+Data & Analytics  
+Cloud & DevOps
+
+**Currently learning**  
+AWS · Cloud · DevOps
+
+<br>
+
+<a href="https://github.com/GURUBAKSHYADAV-71218">
+<img src="https://img.shields.io/badge/VIEW_GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-I'm currently focusing on understanding how applications move beyond development into **reliable, scalable and cloud-based systems**.
+<br>
 
 ---
 
-#  What I Like Building
-
 <div align="center">
 
-| Area | Focus |
-| :--- | :--- |
-|  **Web** | Full-stack applications & useful digital products |
-|  **Data** | Analytics, dashboards & data-driven insights |
-|  **Cloud** | AWS, infrastructure & cloud architecture |
-|  **DevOps** | Development workflows, deployment & automation |
-|  **Engineering** | Clean logic, problem solving & scalable systems |
+## SELECTED WORK
+
+<sub>Projects where software meets real-world problems.</sub>
 
 </div>
 
----
+<br>
 
-#  Let's Connect
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 01 / GITPULSE
+
+# Engineering Health, At a Glance.
+
+GitPulse analyzes software projects and public GitHub repositories across **dependency health, security, maintenance, repository activity, contributor concentration, testing and documentation**.
+
+The result is an **explainable Engineering Health Score** with prioritized recommendations.
+
+<br>
+
+`Software Analysis` `GitHub` `Dependencies` `Security`
+
+<br>
+
+<a href="https://gitpulse-live.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-F59E0B?style=for-the-badge&logo=vercel&logoColor=111111"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 / FRIENDFORDOC
+
+# One place for the next step.
+
+FriendForDoc is a student-focused web platform designed to simplify discovering and preparing for **examinations, application forms, counselling, scholarships, recruitment opportunities and related documentation**.
+
+<br>
+
+`Student Platform` `Web Application` `Information`
+
+<br>
+
+<a href="https://friendfordoc.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-F59E0B?style=for-the-badge&logo=vercel&logoColor=111111"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 03 / PAYLENSE
+
+# Salary, beyond the offer letter.
+
+PAYLENS is a salary transparency web application for India.
+
+It explains the difference between the **number written on an offer letter** and the **amount that actually reaches a bank account**.
+
+<br>
+
+`FinTech` `Data` `Transparency` `India`
+
+<br>
+
+<a href="https://paylense-analytics.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-F59E0B?style=for-the-badge&logo=vercel&logoColor=111111"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04 / HEALTHCARE ANALYTICS
+
+# Data with a purpose.
+
+A healthcare analytics project focused on analyzing **heart-health indicators** to identify potential risks and provide actionable insights.
+
+<br>
+
+`Analytics` `Healthcare` `Data Visualization`
+
+<br>
+
+<a href="https://www.figma.com/design/X4jj7I1V5OJ2Cymggw00zu/Healthcare-Analytics-Web-App-UI">
+<img src="https://img.shields.io/badge/VIEW_DESIGN-F59E0B?style=for-the-badge&logo=figma&logoColor=111111"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <div align="center">
 
-I'm always interested in **building useful software, learning new technologies and collaborating on interesting ideas.**
+### A FEW THINGS I'M INTERESTED IN
+
+**BUILDING PRODUCTS** &nbsp; · &nbsp;
+**UNDERSTANDING DATA** &nbsp; · &nbsp;
+**LEARNING CLOUD** &nbsp; · &nbsp;
+**IMPROVING SYSTEMS**
+
+</div>
+
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## TECH STACK
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,dart&perline=6" />
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,html,css&perline=6" />
+
+</td>
+
+<td width="50%" valign="top">
+
+## DATA & CLOUD
+
+### Data & Analytics
+
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/POWER_BI-111111?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/TABLEAU-111111?style=flat-square&logo=tableau&logoColor=E97627" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,git,github&perline=3" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## CREDENTIALS
+
+</div>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### ☁️
+
+**AWS CLOUD  
+PRACTITIONER**
+
+</td>
+
+<td width="33%" align="center">
+
+### ◇
+
+**AWS DATA ENGINEER  
+— ASSOCIATE**
+
+</td>
+
+<td width="33%" align="center">
+
+### ◉
+
+**RED HAT TRAINING**
+
+Getting Started with  
+Linux Fundamentals
+
+**RH104 · Ver. 9.1**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+# What's next?
+
+I'm currently going deeper into **AWS, cloud infrastructure and DevOps**.
+
+The goal is to understand not just how to build an application, but how modern applications are **deployed, connected, monitored and scaled**.
+
+<br>
+
+<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/DEVOPS-111111?style=for-the-badge&logo=githubactions&logoColor=FFFFFF"/>
+
+</td>
+
+<td width="45%" valign="top">
+
+### OPEN TO
+
+Internship opportunities  
+Software engineering roles  
+Data / cloud opportunities  
+Interesting engineering collaborations
+
+<br>
+
+If you're building something interesting,  
+**let's talk.**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+# LET'S CONNECT
 
 <br>
 
 <a href="https://www.linkedin.com/in/gurubakshyadav/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
 &nbsp;
-
 <a href="https://leetcode.com/u/gurubakshyadav/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LEETCODE-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
-
 &nbsp;
-
 <a href="mailto:gurubakshyadav71218@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2A2118,50:171717,100:0D0D0D&section=footer"/>
 
-### Thanks for visiting my profile! 
+<sub>GURUBAKSH YADAV · SOFTWARE ENGINEERING · 2026</sub>
 
 </div>
