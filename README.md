@@ -222,6 +222,7 @@ A data analytics project that analyzes heart-health indicators to predict potent
 
 <br />
 
+
 <h2 align="center" id="connect">Connect</h2>
 
 <h3 align="center">Let's build something useful.</h3>
