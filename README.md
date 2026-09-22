@@ -252,7 +252,7 @@ A data analytics project that analyzes heart-health indicators to predict potent
 
 <div align="center">
 
-<sub>Built with curiosity • shipped with code.</sub>
+<sub>Built with curiosity • shipped with  code.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0D1117&height=100&section=footer" alt="" width="100%" />
 
